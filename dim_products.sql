@@ -1,0 +1,3 @@
+
+SELECT *
+FROM staging.products;
