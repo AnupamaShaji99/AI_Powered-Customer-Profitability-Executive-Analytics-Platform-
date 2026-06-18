@@ -148,7 +148,8 @@ Example insights include:
 
 ### Customer Profitability Analysis
 
-(Add screenshot)
+![Customer Profitability Analysis](Customerlifetimevalueanalytics.png)
+
 
 ### RFM Segmentation
 
