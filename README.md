@@ -148,20 +148,22 @@ Example insights include:
 
 ### Customer Profitability Analysis
 
-![Customer Profitability Analysis](Customerlifetimevalueanalytics.png)
+![Customer Profitability Analysis](clv.png)
+
 
 
 ### RFM Segmentation
 
-(Add screenshot)
+![RFM Segmentation](rfm.png)
 
 ### CLV Analysis
 
-(Add screenshot)
+![CLV Analysis](Customerlifetimevalueanalytics.png)
 
 ### AI Executive Insights Application
 
-(Add screenshot)
+![AI Executive Insights Application]()
+
 
 ---
 
