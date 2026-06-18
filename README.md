@@ -20,7 +20,7 @@ Businesses need to understand:
 * Which demographic groups contribute the most profitability?
 * Where should retention and growth efforts be prioritised?
 
-This project addresses these questions through customer profitability analysis, Customer Lifetime Value (CLV) segmentation and RFM customer segmentation.
+This project addresses these questions through customer profitability analysis, Customer Lifetime Value (CLV) segmentation and Recency Frequency Monetary(RFM) customer segmentation.
 
 ---
 
@@ -67,7 +67,7 @@ Generative AI Executive Insights (Streamlit)
 * Identified high-performing occupations and income segments.
 * Evaluated profitability contribution across customer groups.
 
-### RFM Segmentation
+### (Recency Frequency Monetary)RFM Segmentation
 
 Customers were segmented into:
 
