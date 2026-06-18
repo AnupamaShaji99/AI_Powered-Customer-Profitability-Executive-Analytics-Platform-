@@ -144,7 +144,7 @@ Example insights include:
 
 ### Executive Dashboard
 
-(Add screenshot)
+![Executive Dashboard](ExecutivePerformanceDashboard.png)
 
 ### Customer Profitability Analysis
 
