@@ -13,14 +13,15 @@ A Generative AI insights layer was developed using Streamlit to automatically tr
 
 ## Business Problem
 
-Businesses need to understand:
+AdventureWorks needs to better understand its customers and profitability to support data-driven commercial decisions. While sales data exists across multiple years and customer segments, it is difficult for executives to quickly identify which customers generate the greatest long-term value, where profitability is concentrated, and which customer groups require retention efforts.
 
-* Which customers generate the most value?
-* Which customer segments are at risk of churn?
-* Which demographic groups contribute the most profitability?
-* Where should retention and growth efforts be prioritised?
+This analytics platform answers key commercial questions such as:
 
-This project addresses these questions through customer profitability analysis, Customer Lifetime Value (CLV) segmentation and Recency Frequency Monetary(RFM) customer segmentation.
+Which customers generate the highest profit?
+Which customer segments are most valuable over time?
+Which customers show signs of becoming inactive?
+Which territories and demographic groups drive the strongest profitability?
+Where should marketing and retention investments be prioritised?
 
 ---
 
