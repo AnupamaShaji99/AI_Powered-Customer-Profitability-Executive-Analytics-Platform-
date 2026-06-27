@@ -163,9 +163,9 @@ Example insights include:
 
 ### AI Executive Insights Application
 
-![AI Executive Insights Application](AI1.png)
-![AI Executive Insights Application](AI2.png)
-![AI Executive Insights Application](AI3.png)
+![AI Executive Insights Application](summary.png)
+![AI Executive Insights Application](summary1.png)
+
 
 
 ---
